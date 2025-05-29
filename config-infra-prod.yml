@@ -7,7 +7,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: tfml51704351
+  namespace: tfml51704352
   postfix: c
   location: eastus2
 
